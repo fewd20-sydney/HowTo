@@ -25,4 +25,4 @@
 ![Step8](imgs/step8.jpg)
 
 ##Step 9 - Eat Cookies
-![Step9](imgs/cookie.jpg)
+![Step9](imgs/step9.png)
