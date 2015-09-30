@@ -1,0 +1,52 @@
+body{
+	font-family: garamond;
+	padding-bottom: 50px;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 50px;
+	background-color: #FFE;
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+}
+p{
+	font-family: garamond;
+	margin-left: 30px;
+}
+h1{
+	font-family: garamond;
+	margin-left: 30px;
+
+}
+h3{
+	font-family: helvetica;
+	margin-left: 30px;
+
+}
+h4{
+	font-family: helvetica;
+	margin-left: 30px;
+	color: #887;
+	
+}
+ul{ 
+	font-size: 14px;
+	margin-left: 30px;
+}
+ol{ 
+	font-size: 14px;
+	margin-left: 30px;
+}
+em{
+	margin-left: 30px;
+	margin-bottom: 100px;
+}
+a{
+	color: #900;
+}
+Cookie Recipe CSS
+=================
+
+- The background color for the page is #FFE
+- The color for the text reading "Nutrition Information" is #887
+- The link color is #900
