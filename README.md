@@ -1,4 +1,4 @@
-# How To Create A Pull Request
+# How To Create A Pull Request in Github
 
 ##Step 1 - Fork a repo
 ![Step1](imgs/step1.jpg)
