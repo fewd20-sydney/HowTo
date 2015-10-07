@@ -1,5 +1,7 @@
 # How To Create A Pull Request
 
+Only fork repos in https://github.com/fewd20-sydney
+
 ##Step 1 - Fork a repo
 ![Step1](imgs/step1.jpg)
 
