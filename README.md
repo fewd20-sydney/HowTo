@@ -1,5 +1,7 @@
 # How To Create A Pull Request
 
+[![Join the chat at https://gitter.im/fewd20-sydney/HowTo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fewd20-sydney/HowTo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Only fork repos in https://github.com/fewd20-sydney
 
 ##Step 1 - Fork a repo
